@@ -1,9 +1,7 @@
 
-@font-face {
-  font-family: "Inter";
-  src: url(Fonts/Inter/Inter-VariableFont_opsz\,wght.ttf)
-}
+
 body {
+  font-family: "Faroo", sans-serif;
   margin: 0;
   height: 100vh;
   display: flex;
